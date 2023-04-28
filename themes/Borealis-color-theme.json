@@ -65,7 +65,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#FFEB3B"
 			}
 		},
 		{
@@ -74,7 +74,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FFEB3B"
 			}
 		},
 		{
