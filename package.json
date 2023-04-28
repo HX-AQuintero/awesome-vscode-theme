@@ -3,6 +3,7 @@
   "displayName": "Borealis night theme",
   "description": "Borealis is an enchanting VS Code theme with a dark background and vivid colors inspired by the Northern Lights. The captivating hues make for an enjoyable and productive coding experience with stunning visual effects.",
   "version": "1.0.1",
+  "icon": "icono.jpg",
   "publisher": "AlejandroMejia",
   "engines": {
     "vscode": "^1.77.0"
